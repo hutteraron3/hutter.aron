@@ -1,0 +1,13 @@
+/* table-n belül lévő td */
+ table td{
+    border: 1px solid darkblue;
+}
+
+/* table és td */
+table, td {
+    border: 1px solid darkblue;
+    border-collapse: collapse;
+}
+div p {
+    background-color:aquamarine;
+}
