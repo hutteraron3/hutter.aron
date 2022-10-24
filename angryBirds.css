@@ -1,0 +1,47 @@
+body {
+   /* background-image: url(20221024_AngryBirds/szendvics.jpg);
+    /* backround-size:100%; */
+   /* background-repeat: repeat;
+    background-repeat: repeat-y;
+    background-repeat: no-repeat;
+    background-position: top right; */
+    background-image: url(20221024_AngryBirds/Hatter.png);
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
+p {
+    text-align: justify;
+}
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+}
+.kiemelt {
+    font-style: italic;
+    color: blue;
+}
+.fontos {
+    color: red;
+    font-weight:bold;
+}
+table {
+     border: 2px solid blue;
+     background-color: lightgray;
+     border-collapse: collapse;
+}
+td {
+    border: 1px solid blue;
+    padding: 10px;
+}
+img {
+    width: 400px;
+    display:block;
+    margin: auto;
+    
+}
+
+
+    
